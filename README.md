@@ -1,2 +1,2 @@
 # FOLDER_NAME
-Basic boilerplate to start future projects.
+Basic boilerplate to start future work.
